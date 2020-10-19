@@ -1,0 +1,5 @@
+Jim, Sales
+Dwight, Sales
+Kelly, Customer Service
+Creed, QA
+Oscar, Accounting
